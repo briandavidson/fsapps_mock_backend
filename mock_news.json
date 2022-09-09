@@ -1,0 +1,39 @@
+{
+  "news": [{
+    "type": "update",
+    "title": "News Item 1",
+    "text": "This is some great news regarding a new piece of news that has occured in the news! Thank goodness you are able to see this news item right here in the news feed!"
+  }, {
+    "type": "update",
+    "title": "News Item 2",
+    "text": "This is some great news regarding a new piece of news that has occured in the news! Thank goodness you are able to see this news item right here in the news feed!"
+  }, {
+    "type": "update",
+    "title": "News Item 3",
+    "text": "This is some great news regarding a new piece of news that has occured in the news! Thank goodness you are able to see this news item right here in the news feed!"
+  }, {
+    "type": "update",
+    "title": "News Item 4",
+    "text": "This is some great news regarding a new piece of news that has occured in the news! Thank goodness you are able to see this news item right here in the news feed!"
+  }, {
+    "type": "update",
+    "title": "News Item 5",
+    "text": "This is some great news regarding a new piece of news that has occured in the news! Thank goodness you are able to see this news item right here in the news feed!"
+  }, {
+    "type": "update",
+    "title": "News Item 6",
+    "text": "This is some great news regarding a new piece of news that has occured in the news! Thank goodness you are able to see this news item right here in the news feed!"
+  }, {
+    "type": "update",
+    "title": "News Item 7",
+    "text": "This is some great news regarding a new piece of news that has occured in the news! Thank goodness you are able to see this news item right here in the news feed!"
+  }, {
+    "type": "update",
+    "title": "News Item 8",
+    "text": "This is some great news regarding a new piece of news that has occured in the news! Thank goodness you are able to see this news item right here in the news feed!"
+  }, {
+    "type": "update",
+    "title": "News Item 9",
+    "text": "This is some great news regarding a new piece of news that has occured in the news! Thank goodness you are able to see this news item right here in the news feed!"
+  }]
+}

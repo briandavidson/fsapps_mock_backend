@@ -1,0 +1,13 @@
+{
+  "users": [{
+    "usdafirstname": "BRIAN",
+    "role": "user",
+    "usdaemail": "brian.davidson2@usda.gov",
+    "usdalastname": "DAVIDSON",
+    "name": "brian.davidson2",
+    "approles": "OCIO_CHD-Remedy_Record^FS_FSApps_SysAdmin^FS_IBS_ABS-Data-Entry^OCIO_AgLearn_User^FS_PINYON-BOX_USER^OCIO_ENTVPN_FS-EMP^USDA_ICAMaaS-Federation_Customer_NFC^FS_CFO-Apps_User-Administrator^FS_IBS_Processor-1",
+    "managername": "null",
+    "usdaeauthid": "28682019061611257207743",
+    "samaccountname": "null"
+  }]
+}

@@ -1,0 +1,53 @@
+{
+  "apps": [{
+      "appShortName": "FS HQ Website",
+      "appLongName": "FS Headquarters Website",
+      "appDescription": "USDA Forest Service headquarters website.",
+      "appOrder": 100,
+      "appUrl": "https://dev-cms.fs.usda.gov/hq2d8",
+      "appAgency": "FS",
+      "appState": null,
+      "appGroups": null
+    },
+    {
+      "appShortName": "GP Admin Portal",
+      "appLongName": "GP Admin Portal",
+      "appDescription": "Gifford Pinchot Free Use Admin Portal",
+      "appOrder": 200,
+      "appUrl": "https://gp-dev.fs2c.usda.gov/gpadmin",
+      "appAgency": "FS",
+      "appState": null,
+      "appGroups": null
+    },
+    {
+      "appShortName": "nrm-smp",
+      "appLongName": "nrm-smp",
+      "appDescription": "Standard modernization platfrom for NRM applications",
+      "appOrder": 250,
+      "appUrl": "http://nrmbp-dev.fs2c.usda.gov.s3-website-us-gov-west-1.amazonaws.com",
+      "appAgency": "FS",
+      "appState": null,
+      "appGroups": null
+    },
+    {
+      "appShortName": "VDR",
+      "appLongName": "Fire Vehicle Deficiencies",
+      "appDescription": "VDR is a solution for tracking fire vehicle issues and related activities, resulting to pinpointing issues that management can use to make decisions related to safety and cost savings.",
+      "appOrder": 275,
+      "appUrl": "https://vdr-dev.fs2c.usda.gov/",
+      "appAgency": "FS",
+      "appState": null,
+      "appGroups": null
+    },
+    {
+      "appShortName": "VDR NITC",
+      "appLongName": "Fire Vehicle Deficiencies",
+      "appDescription": "VDR is a solution for tracking fire vehicle issues and related activities, resulting to pinpointing issues that management can use to make decisions related to safety and cost savings.",
+      "appOrder": 300,
+      "appUrl": "https://dev.wrk.fs.usda.gov/vdr/",
+      "appAgency": "FS",
+      "appState": null,
+      "appGroups": null
+    }
+  ]
+}
